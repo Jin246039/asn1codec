@@ -1,7 +1,7 @@
 language: cpp
 compiler:
-- clang++
-- g++
+- clang
+- gcc
 sudo: false
 # cache: ccache
 
